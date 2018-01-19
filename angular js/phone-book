@@ -1,0 +1,40 @@
+{
+    "contacts": [{
+        "id": 100,
+        "firstName": "Preeti",
+        "lastName": "Nagarajan",
+        "email":"preeti@gm.com",
+        "phone": "25442545454"
+    },
+    {
+        "id": 102,
+        "firstName": "Preeti",
+        "lastName": "magesh",
+        "email":"pr@yahoo.com",
+        "phone": "2545474"
+    },
+    {
+        "id": 103,
+        "firstName": "Priya",
+        "lastName": "Nagarajan",
+        "email":"priya@orkut.com",
+        "phone": "45222227"
+    },
+    {
+        "id": 104,
+        "firstName": "subha",
+        "lastName": "sri",
+        "email":"subasri@twitter.com",
+        "phone": "9753452145"
+    },
+    {
+        "id": 105,
+        "firstName": "abi",
+        "lastName": "chidhu",
+        "email":"abi@gm.com",
+        "phone": "764464"
+    }
+    
+    ]
+}
+
